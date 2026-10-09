@@ -1,3 +1,6 @@
 {
-    "livePreview.customExternalBrowser": "Firefox"
+    "livePreview.customExternalBrowser": "Firefox",
+    "cSpell.words": [
+        "CCNP"
+    ]
 }
