@@ -2,5 +2,7 @@
     "livePreview.customExternalBrowser": "Firefox",
     "cSpell.words": [
         "CCNP"
-    ]
+    ],
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true
 }
